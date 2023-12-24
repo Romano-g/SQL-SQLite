@@ -1,0 +1,5 @@
+.vscode
+aulas
+venv
+
+.mypy-cache
